@@ -82,7 +82,7 @@ body {
 }
 .login-button:hover {
     box-shadow: 5px 5px 5px rgba(0,0,0,0.15);
-    opacity: 0.15px;
+    opacity: 0.15;
 }
 .login-button:active {
     background-color: white;
@@ -129,7 +129,7 @@ body {
 }
 .facebook-button:hover {
     box-shadow: 5px 5px 5px rgba(0,0,0,0.15);
-    opacity: 0.15px;
+    opacity: 0.15;
 }
 .facebook-button:active {
     background-color: white;  
@@ -163,7 +163,7 @@ body {
 .google-button:hover {
     
     box-shadow: 5px 5px 5px rgba(0,0,0,0.15);
-    opacity: 0.15px;
+    opacity: 0.15;
 
 }
 .google-button:active {
@@ -181,4 +181,5 @@ body {
     cursor: pointer;
 
 }
+
 
