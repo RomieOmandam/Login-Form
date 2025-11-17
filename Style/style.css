@@ -29,7 +29,12 @@ body {
     border-radius: 6px;
     border: 1px solid #ccc;
     font-size: 16px;
+    
+ .email-wrapper {
+    position: relative;
+    width: 100%;
 }
+    
 .input-password {
     width: 100%;
     padding: 12px;
@@ -176,3 +181,4 @@ body {
     cursor: pointer;
 
 }
+
