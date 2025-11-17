@@ -82,8 +82,9 @@ body {
     cursor: pointer;
 }
 .login-button:hover {
-    box-shadow: 0 0 8px rgba(0,0,0,0.2);
-    opacity: 0.15;
+    box-shadow: 0 0 8px rgba(0,0,0,0.25);
+    opacity: 1; 
+    transform: scale(1.02); 
 }
 .login-button:active {
     background-color: white;
@@ -129,8 +130,8 @@ body {
     cursor: pointer;   
 }
 .facebook-button:hover {
-    box-shadow: 5px 5px 5px rgba(0,0,0,0.15);
-    opacity: 0.15;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    opacity: 1;
 }
 .facebook-button:active {
     background-color: white;  
@@ -145,10 +146,8 @@ body {
     display: flex;
     cursor: pointer;
 }
-.facebook-button:hover, .google-button:hover {
-    opacity: 0.95;
-    box-shadow: 0 0 10px rgba(0,0,0,0.2);
-}
+
+
 
 .google-button {
     background: white;
@@ -166,8 +165,8 @@ body {
 }   
 .google-button:hover {
     
-    box-shadow: 5px 5px 5px rgba(0,0,0,0.15);
-    opacity: 0.15;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    opacity: 1;
 
 }
 .google-button:active {
